@@ -77,17 +77,17 @@ To run this project locally, follow these steps:
    - Add your Google OAuth credentials and Postmarkapp.com API token to the `.env` file:
      ```dotenv
      GOOGLE_CLIENT_ID= here_is_your_google_client_id
-GOOGLE_CLIENT_SECRET= here_is_your_google_client_secret
-JWT_SECRET=your-jwt-secret
-MONGO_URI=  here_is_your_mongodb
-POSTMARK_API_TOKEN = here_postmark_api_token
-PORT = 8080
-CLIENT_URL = http://localhost:5173/
-SEND_MAIL_URL = http://localhost:8082
-COMU_URL = http://localhost:8081
-COMPANY_MAIL_ID = company_mail_for_update
-COOKIE_NAME = here_is_come_name
-COOKIE_KEY = here_is_come_key
+     GOOGLE_CLIENT_SECRET= here_is_your_google_client_secret
+     JWT_SECRET=your-jwt-secret
+     MONGO_URI=  here_is_your_mongodb
+     POSTMARK_API_TOKEN = here_postmark_api_token
+     PORT = 8080
+     CLIENT_URL = http://localhost:5173/
+     SEND_MAIL_URL = http://localhost:8082
+     COMU_URL = http://localhost:8081
+     COMPANY_MAIL_ID = company_mail_for_update
+     COOKIE_NAME = here_is_come_name
+     COOKIE_KEY = here_is_come_key
      ```
 
 2. Frontend Configuration:
