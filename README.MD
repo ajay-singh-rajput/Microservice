@@ -1,4 +1,3 @@
-Certainly! Here's a sample README.md file that provides instructions for setting up and using the project on GitHub:
 
 ---
 
